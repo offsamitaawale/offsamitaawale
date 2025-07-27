@@ -4,27 +4,21 @@
 
 ## 👩‍💻 About Me
 
-I’m an IT graduate from Nepal with a strong interest in **software testing** and quality assurance. I'm currently focused on learning manual testing techniques, writing test cases, and building a solid foundation in QA process.
+I’m an IT graduate with a strong interest in **software testing** and quality assurance. I'm currently focused on building a solid foundation in QA process.
 I enjoy learning new tools, solving real-world problems through testing and continuously improving my skillset in both technical and soft areas like attention to detail and communication.
 
----
 
 ## 🛠️ Skills
 
-✅ Solid understanding of SDLC vs STLC, QA vs QC and Verification vs Validation
-✅ Knowledge of Static & Dynamic Testing, and various Software Testing Levels (Unit, Integration, System, UAT)
-✅ Familiar with White Box & Black Box Testing, and Functional & Non-Functional Testing
-✅ Experienced in Retesting, Regression, Smoke, Sanity, Exploratory, and End-to-End Testing
-✅ Skilled in writing Use Cases, Test Scenarios, and Test Cases using standard Test Design Techniques
-
-### ✅ **Tools & Technologies**
-- 🐞 **Bug Reporting** – Familiar with identifying and documenting defects clearly using JIRA
-- 🔄 **Test Management** – Manual test case writing, execution, and reporting
-- 🔗 **API Testing** – Using **Postman** for request validation and response verification
-- 📈 **Performance Testing** – Basic load testing using **JMeter**
-- 🤖 **Automation Testing** – Basic concepts and hands-on practice with **Selenium**
-- 🔄 **Agile & Scrum Framework** – Understanding of sprint planning, stand-ups, and QA's role in Agile
-
+✅ Strong understanding of SDLC, STLC and agile methodologies
+✅ Knowledge of manual testing concepts including test case design, execution and defect reporting
+✅ Experience with JIRA for test case management and bug tracking
+✅ Good understanding of API and API Testing using Postman
+✅ Knowledge of Performance Testing using JMeter
+✅ Basic understanding of SQL
+✅ Basic knowledge of Selenium WebDriver with Python
+✅ Strong analytical and problem-solving skills
+✅ Attention to detail and ability to work in collaborative agile environment
 
 Thanks for visiting my profile!
 
